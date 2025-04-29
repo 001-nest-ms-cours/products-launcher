@@ -1,0 +1,3 @@
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/001-nest-ms-cours/client-gateway.git
